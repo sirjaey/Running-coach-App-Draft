@@ -5,9 +5,6 @@
 Sources were read on 2026-09-29 unless a section says otherwise.
 The full search, including the candidates we cut, is in [the candidate list](../../reports/week-01/candidate-list.md).
 
-<!-- TODO(team): replace BOARD_LINK below with the view-only Miro/Figma board URL once it exists, and add frame names per ALT-nn. -->
-
-**Research board:** BOARD_LINK (view-only), with at least two screenshots per alternative, one frame per `ALT-nn`.
 
 ## Properties
 
@@ -30,7 +27,7 @@ Each is written as a question a runner in the problem space would ask.
 **Link:** <https://www.runna.com/>
 **Version looked at:** help-center articles and pricing page as published on 2026-09-29.
 **Depth of evaluation:** read the official help center (plan creation, skipping, realignment, Pace Insights, recovery, subscription, account deletion) and the pricing page.
-<!-- TODO(team): install the app, create a 5K plan, skip one run, and record what happened. Update this line with that depth. -->
+
 Did not use the app hands-on in this pass.
 
 **Problem it solves:** gives a runner a structured, subscription-based plan toward a race or distance goal, which adjusts when sessions are skipped and suggests new paces from speed sessions.
@@ -68,7 +65,7 @@ Did not use the app hands-on in this pass.
 **Link:** <https://support.garmin.com/en-US/?faq=IkvWNeIoSd48GIYCjkhlo7>
 **Version looked at:** Garmin support FAQs at the content versions shown on 2026-09-29 (Garmin Coach FAQ v122.0, missed workouts FAQ v63.0, load FAQ v72.0), and the Garmin blog post of 28 April 2025.
 **Depth of evaluation:** read the official support FAQs, the product blog, and the Connect+ pricing FAQ.
-<!-- TODO(team): if a member owns a compatible Garmin watch, start a Run Coach plan and record the flow. -->
+
 Did not use a Garmin device in this pass.
 
 **Problem it solves:** gives a Garmin watch owner a free adaptive plan that changes daily from the watch's own performance and health measurements.
@@ -106,7 +103,7 @@ Did not use a Garmin device in this pass.
 **Link:** <https://www.halhigdon.com/training-programs/half-marathon-training/novice-1-half-marathon/>
 **Version looked at:** Novice 1 Half Marathon page and printable PDF, and Run With Hal help-center articles (updated between 2019 and 24 February 2026), on 2026-09-29.
 **Depth of evaluation:** read the free plan and its printable PDF, and the app help center.
-<!-- TODO(team): install Run With Hal, start the free plan, and record the onboarding. -->
+
 Did not use the app hands-on in this pass.
 
 **Problem it solves:** gives a runner a well-known, free, fixed schedule toward a race, which many runners print and follow on their own.
@@ -143,7 +140,6 @@ Did not use the app hands-on in this pass.
 **Link:** <https://github.com/GoldenCheetah/GoldenCheetah>
 **Version looked at:** v3.8, released 2026-09-20 ([release notes](https://github.com/GoldenCheetah/GoldenCheetah/releases/tag/v3.8)), and the project wiki, on 2026-09-29.
 **Depth of evaluation:** read the v3.8 release notes, the Plan chart wiki page, the running FAQ, and the first-steps guide.
-<!-- TODO(team): install v3.8, import one of your own runs (FIT/GPX), and add a planned activity. Record what you saw. -->
 Did not install it in this pass.
 
 **Problem it solves:** gives a technical athlete full local control of their training data, with load analysis (CTL, ATL, TSB) and, since v3.8, a manual training calendar.
@@ -170,5 +166,3 @@ Did not install it in this pass.
 - Desktop only, with no phone app, and built around cycling; a recreational runner would need to copy files from a phone or watch to a computer after every run.
 - No plan generation or adaptation, so the load numbers never turn into an adjusted workout; the runner has to interpret CTL and TSB themselves.
 - Onboarding assumes the user knows what critical velocity and pace zones are.
-
-**Could not find out:** the exact athlete fields asked at setup.
