@@ -79,3 +79,13 @@ Scope the first release to reading stats aloud and answering simple verbal stats
 - **Made by:** Customer
 - **Source:** [the Week 2 validation exchange](../reports/week-02/meeting-report.md#decisions)
 - **Why:** for the scope of the project it is enough to read available stats to the user and to respond to simple verbal queries, with no fixed command list, and he suggested Google's open source small model Gemma to handle those queries and generate the responses.
+
+## DEC-009
+
+Build the minimum usable product as a Kotlin Android app, and answer the three stat questions with an on-device phrase matcher.
+
+- **Status:** Active
+- **Date:** 2026-10-15
+- **Made by:** Team
+- **Source:** [the on-device feasibility spike](research/on-device-feasibility.md)
+- **Why:** [DEC-006](#dec-006) already fixes Android, and [DEC-004](#dec-004) keeps the run on the phone. Platform text-to-speech needs no model in the repository. [US-04](https://github.com/Running-Coach-App/running-coach-app/issues/40) only needs time, pace, and distance, and a phrase matcher can answer those without inventing another stat. Gemma 3n is built for phones, but its weights are not in a clean checkout, and this spike did not run it on a device, so it stays the later engine in [ASM-09](assumptions.md#asm-09) rather than a Week 3 dependency.

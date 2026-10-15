@@ -1,0 +1,604 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 7 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 3189 >>
+stream
+0.11 0.30 0.24 rg
+0 808 595.28 33.89 re f
+1 1 1 rg
+BT
+/F2 9 Tf
+50 821 Td
+(Running Coach App) Tj
+340 0 Td
+(Week 3 validation) Tj
+ET
+0.11 0.30 0.24 rg
+BT
+/F2 8 Tf
+50 786 Td
+(QUESTIONS FOR THE CUSTOMER) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F2 16 Tf
+50 764 Td
+(Week 3 validation meeting) Tj
+ET
+BT
+/F1 10 Tf
+50 742 Td
+(A beginner to intermediate runner with only a phone hears what to do) Tj
+0 -14 Td
+(and how the run is going while they are running, without looking at) Tj
+0 -14 Td
+(the screen.) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 694 Td
+(The meeting has to settle whether the finished stories do what the) Tj
+0 -12 Td
+(customer needs, and what comes next. A star marks a question that) Tj
+0 -12 Td
+(would change the project most. For each story, take the two criterion) Tj
+0 -12 Td
+(verdicts before the starred question.) Tj
+ET
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 640 Td
+(Permission) Tj
+ET
+0.11 0.30 0.24 RG
+1 w
+50 634 m 545 634 l S
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 618 Td
+(Send nothing else until these three are answered.) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 598 Td
+(1.  May we record this meeting?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 582 Td
+([ ]  Yes          [ ]  No          Notes) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+248 580 m 545 580 l S
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 558 Td
+(2.  May we publish a sanitized transcript in the repository?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 542 Td
+([ ]  Yes          [ ]  No          Notes) Tj
+ET
+0.78 0.82 0.79 RG
+248 540 m 545 540 l S
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 518 Td
+(3.  If you refuse publication, may we share that transcript privately) Tj
+0 -14 Td
+(with the instructors?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 488 Td
+([ ]  Yes          [ ]  No          Notes) Tj
+ET
+0.78 0.82 0.79 RG
+248 486 m 545 486 l S
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 462 Td
+(US-01   Start and stop without taking the phone out) Tj
+ET
+0.11 0.30 0.24 RG
+1 w
+50 456 m 545 456 l S
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 440 Td
+(Shown first: headphones on, screen covered, a session started and then) Tj
+0 -12 Td
+(stopped, each with a spoken confirmation, and silence after the stop.) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 410 Td
+(AC-01.  With the phone in a pocket, the runner starts a session and hears) Tj
+0 -13 Td
+(a spoken confirmation, and the phone face stays covered. Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 382 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 360 Td
+(AC-02.  The runner stops that session and hears a spoken confirmation,) Tj
+0 -13 Td
+(and no further cue is spoken as if the session were still going.) Tj
+0 -13 Td
+(Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 316 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 294 Td
+(4. * Does the start and the stop do what you need: a spoken) Tj
+0 -13 Td
+(confirmation each time, and silence after the stop, with the phone) Tj
+0 -13 Td
+(face covered?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 246 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 244 m 545 244 l S
+0.78 0.82 0.79 RG
+50 228 m 545 228 l S
+0.33 0.38 0.35 rg
+BT
+/F1 8 Tf
+50 36 Td
+(Ask these in order. Do not record until question 1 is yes.) Tj
+ET
+BT
+/F1 8 Tf
+530 36 Td
+(1) Tj
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Length 2644 >>
+stream
+0.11 0.30 0.24 rg
+0 808 595.28 33.89 re f
+1 1 1 rg
+BT
+/F2 9 Tf
+50 821 Td
+(Running Coach App) Tj
+340 0 Td
+(Week 3 validation) Tj
+ET
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 782 Td
+(US-02   Hear time, pace, and distance) Tj
+ET
+0.11 0.30 0.24 RG
+1 w
+50 776 m 545 776 l S
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 760 Td
+(Shown first: one session with no location fix, then one with a distance,) Tj
+0 -12 Td
+(and no look at the screen for either number.) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 730 Td
+(AC-01.  On a phone with no watch, during a session, the runner hears the) Tj
+0 -13 Td
+(elapsed time, the pace, and the distance at least once within three) Tj
+0 -13 Td
+(minutes, and does not look at the phone to get them. Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 686 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 664 Td
+(AC-02.  If the session has no distance yet, the runner hears that distance) Tj
+0 -13 Td
+(is missing rather than a made-up distance. Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 632 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 608 Td
+(5. * Are the spoken time, pace, and distance enough, including the case) Tj
+0 -13 Td
+(where distance is missing and we do not invent one?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 580 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 578 m 545 578 l S
+50 562 m 545 562 l S
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 534 Td
+(US-03   Hear the effort) Tj
+ET
+0.11 0.30 0.24 RG
+1 w
+50 528 m 545 528 l S
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 512 Td
+(Shown first: an interval session that says Jog, then Hard, then Easier,) Tj
+0 -12 Td
+(and a steady session that says none of those.) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 482 Td
+(AC-01.  During a session that has a change of effort, the runner hears hard,) Tj
+0 -13 Td
+(easier, or jog at the change, without looking. Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 450 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 428 Td
+(AC-02.  During a session with no change of effort, the runner is not told) Tj
+0 -13 Td
+(to change effort. Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 396 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 372 Td
+(6. * Is hearing hard, easier, or jog at a change, and hearing nothing when) Tj
+0 -13 Td
+(the effort does not change, the cue you wanted?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 344 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 342 m 545 342 l S
+50 326 m 545 326 l S
+0.33 0.38 0.35 rg
+BT
+/F1 8 Tf
+50 36 Td
+(Ask these in order. Do not record until question 1 is yes.) Tj
+ET
+BT
+/F1 8 Tf
+530 36 Td
+(2) Tj
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Length 3589 >>
+stream
+0.11 0.30 0.24 rg
+0 808 595.28 33.89 re f
+1 1 1 rg
+BT
+/F2 9 Tf
+50 821 Td
+(Running Coach App) Tj
+340 0 Td
+(Week 3 validation) Tj
+ET
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 782 Td
+(US-04   Ask aloud how the run is going) Tj
+ET
+0.11 0.30 0.24 RG
+1 w
+50 776 m 545 776 l S
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 760 Td
+(Shown first: "How long have I been running?" answered with the elapsed) Tj
+0 -12 Td
+(time, then a question that is not time, pace, or distance, with no) Tj
+0 -12 Td
+(invented stat.) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 718 Td
+(AC-01.  While a session is going, the runner asks aloud how long it has) Tj
+0 -13 Td
+(been going and hears the elapsed time, without looking. Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 686 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F1 10 Tf
+50 664 Td
+(AC-02.  A spoken question that is not about the current run's time, pace,) Tj
+0 -13 Td
+(or distance gets no invented stat. Does this hold?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 632 Td
+([ ]  Yes          [ ]  No) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 608 Td
+(7. * When you ask how long the run has been going, is the spoken elapsed) Tj
+0 -13 Td
+(time the answer you wanted, and is it right that any other question gets) Tj
+0 -13 Td
+(no invented stat?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 564 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 562 m 545 562 l S
+50 546 m 545 546 l S
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 518 Td
+(Not in this build) Tj
+ET
+0.11 0.30 0.24 RG
+1 w
+50 512 m 545 512 l S
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 496 Td
+(US-06 stays out of the Week 3 build. The two presets are a steady run and) Tj
+0 -12 Td
+(a hard/easy interval, and they still wait until after the coach.) Tj
+ET
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 468 Td
+(8. * Do the two presets still follow this coach, or do they leave the plan?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 450 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 448 m 545 448 l S
+50 432 m 545 432 l S
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 404 Td
+(Still open from Week 2) Tj
+ET
+0.11 0.30 0.24 RG
+1 w
+50 398 m 545 398 l S
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 380 Td
+(9. * The last time an app or a plan changed a workout on you, what did you) Tj
+0 -13 Td
+(do: follow it, ignore it, or change it back? Why?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 352 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 350 m 545 350 l S
+50 334 m 545 334 l S
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 312 Td
+(10. Are professional runners in scope later?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 294 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 292 m 545 292 l S
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 270 Td
+(11. What does a wearable add for you, and should we spend any of the) Tj
+0 -13 Td
+(remaining weeks on one?) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 242 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 240 m 545 240 l S
+50 224 m 545 224 l S
+0.08 0.13 0.11 rg
+BT
+/F2 10 Tf
+50 202 Td
+(12. If only one of these had shipped, which would you have kept, the) Tj
+0 -13 Td
+(explanation of why a plan changed, or adaptation from phone-only runs?) Tj
+0 -13 Td
+(Both are already outside the product. We are asking whether that still) Tj
+0 -13 Td
+(stands.) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 142 Td
+(Answer) Tj
+ET
+0.78 0.82 0.79 RG
+0.6 w
+92 140 m 545 140 l S
+50 124 m 545 124 l S
+0.11 0.30 0.24 rg
+BT
+/F2 11 Tf
+50 100 Td
+(Read-back) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 9 Tf
+50 84 Td
+(State what we think was settled, and let the customer correct it.) Tj
+ET
+0.33 0.38 0.35 rg
+BT
+/F1 8 Tf
+50 36 Td
+(Ask these in order. Do not record until question 1 is yes.) Tj
+ET
+BT
+/F1 8 Tf
+530 36 Td
+(3) Tj
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000270 00000 n 
+0000000413 00000 n 
+0000000556 00000 n 
+0000003797 00000 n 
+0000006493 00000 n 
+0000010134 00000 n 
+0000010204 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+10280
+%%EOF

@@ -6,6 +6,8 @@ Running Coach App, team 4.
 
 A beginner to intermediate runner with only a phone hears what to do and how the run is going while they are running, without looking at the screen.
 
+The bar for this goal is [the threshold of success](threshold-of-success.md).
+
 **Supports:** [VP-01](research/value-proposition.md#vp-01).
 [VP-02](research/value-proposition.md#vp-02), the preset sessions the coach speaks, builds on it.
 

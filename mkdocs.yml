@@ -1,0 +1,22 @@
+site_name: Running Coach App
+site_description: A spoken coach for a runner who will not look at the phone.
+site_url: https://running-coach-app.github.io/running-coach-app/
+docs_dir: docs
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  - Setup: setup.md
+  - Product vision: product-vision.md
+  - Threshold of success: threshold-of-success.md
+  - Project plan: project-plan.md
+  - Risks: risks.md
+  - Decisions: decisions.md
+  - Assumptions: assumptions.md
+  - Definition of done: definition-of-done.md
+  - Research:
+      - Value proposition: research/value-proposition.md
+      - Gap analysis: research/gap-analysis.md
+      - Alternatives: research/alternatives.md
+      - Comparison: research/comparison.md
+      - On-device feasibility: research/on-device-feasibility.md

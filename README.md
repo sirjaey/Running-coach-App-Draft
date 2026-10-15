@@ -2,15 +2,16 @@
 
 **Team 4**, ITPD course, Innopolis University, autumn 2026.
 
-A running coach for recreational runners training for 5K to half-marathon races, with a plan that adapts to the runs they actually did and explains why it changed.
+A beginner to intermediate runner with only a phone hears what to do and how the run is going while they are running, without looking at the screen.
 
 > [!NOTE]
 > This project is a work in progress for the ITPD course.
-> Week 1 is a research week, so there is no code yet.
 
 ## Where to start
 
-- Current week's report: [reports/week-01/README.md](reports/week-01/README.md)
+- Current week's report: [reports/week-03/README.md](reports/week-03/README.md)
+- Setup and run: [docs/setup.md](docs/setup.md)
+- Documentation site: [https://running-coach-app.github.io/running-coach-app/](https://running-coach-app.github.io/running-coach-app/)
 - Maintained documentation: [docs/](docs/)
   - [Alternatives](docs/research/alternatives.md)
   - [Comparison](docs/research/comparison.md)
